@@ -10,7 +10,7 @@
 # results
 &nbsp;		| status	| url
 |----		|----		|----
-Claude		| &#x2714;	| https://github.com/codemodify/av1go-claude
-Codex		| &#x1F6A7;	| https://github.com/codemodify/av1go-codex
-Grok		| &#x1F6A7;	| https://github.com/codemodify/av1go-grok
-Gemini		| &#x1F6A7;	| https://github.com/codemodify/av1go-gemini
+Claude		| &#x2714; done, success	| https://github.com/codemodify/av1go-claude
+Codex		| &#x1F6A7; in progress	| https://github.com/codemodify/av1go-codex
+Grok		| &#x1F6A7; in progress	| https://github.com/codemodify/av1go-grok
+Gemini		| &#x1F6A7; in progress	| https://github.com/codemodify/av1go-gemini
