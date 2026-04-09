@@ -8,9 +8,9 @@
 - as a toy project I picked to implement the AV1 video encoder/decorder based on the specs at https://aomediacodec.github.io/av1-spec/av1-spec.pdf
 
 # results
-&nbsp;		| status	| url
-|----		|----		|----
-Claude		| &#x2714; done, success	| https://github.com/codemodify/av1go-claude
-Codex		| &#x1F6A7; in progress	| https://github.com/codemodify/av1go-codex
-Grok		| &#x1F6A7; in progress	| https://github.com/codemodify/av1go-grok
-Gemini		| &#x1F6A7; in progress	| https://github.com/codemodify/av1go-gemini
+&nbsp;		| status					| url
+|----		|----						|----
+Claude		| &#x2705; done, success	| https://github.com/codemodify/av1go-claude
+Codex		| &#x1F6A7; in progress		| https://github.com/codemodify/av1go-codex
+Grok		| &#x274C; done, failed		| https://github.com/codemodify/av1go-grok
+Gemini		| &#x1F6A7; in progress		| https://github.com/codemodify/av1go-gemini
