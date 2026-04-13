@@ -18,7 +18,7 @@ Gemini		| &#x1F6A7; in progress		| https://github.com/codemodify/av1go-gemini
 
 &nbsp;		| personal remarks (so far)
 |----		|----
-Claude		| works surprisingly well, almost magically reads your mind
+Claude		| worked surprisingly well, almost magically reads your mind, as of today (2026 April 12) it got nerfed
 Codex		| knows low level stuff, a bit grumpy and likes being baby-sited at times, so far pretends to do stuff
-Grok		| it is honest, does not waste your time, for light projects with answers from SO
-Gemini		| out of control hallucinations, a wild horse doing whatever it wants, appears to start well but in reality it just bluffs, no good for burning tokens, use Grok instead then, complains a lot, forgets what we spoke 5 min ago
+Grok		| it is honest, does not waste your time, for now it's good for light projects with answers from SO
+Gemini		| out of control hallucinations, a wild horse doing whatever it wants, appears to start well but in reality it just bluffs, talks sweet but results are lacking - it just burns tokens, use Grok instead then - complains a lot, forgets what we spoke 5 min ago, hogs the CPU, crashes a lot, this is probably normal for a Beta product but for now is no good for actual work
