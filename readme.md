@@ -1,6 +1,6 @@
 # when
 - started `2026 March 18`
-- last update `2026 April 12`
+- last update `2026 April 22`
 
 # what
 - a science project to learn how to use AI and research what it can do
