@@ -14,7 +14,7 @@
 Claude		| &#x2705; done, success	| https://github.com/codemodify/av1go-claude
 Codex		| &#x1F6A7; in progress		| https://github.com/codemodify/av1go-codex
 Grok		| &#x274C; done, failed		| https://github.com/codemodify/av1go-grok
-Gemini		| &#x1F6A7; done, failed	| https://github.com/codemodify/av1go-gemini
+Gemini		| &#x274C; done, failed	| https://github.com/codemodify/av1go-gemini
 
 &nbsp;		| personal remarks (so far)
 |----		|----
