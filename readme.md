@@ -1,5 +1,5 @@
 # when
-- started `2026 March 18`
+- started `2026 March 10`
 - last update `2026 April 29`
 - experiment concluded on `2026 April 29`
 
